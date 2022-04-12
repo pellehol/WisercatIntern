@@ -1,6 +1,9 @@
 # Wisercat
 Internship assignment
 
+Frontend runs on http://localhost:1001
+Backend runs on http://localhost:8080
+
 <h3>Running the backend:</h3>
 Gradle: Version 7.4.1 <br>
 Windows: gradlew.bat build & gradlew bootRun <br>
