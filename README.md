@@ -1,7 +1,7 @@
 # Wisercat
 Internship assignment
 
-Frontend runs on http://localhost:1001
+Frontend runs on http://localhost:1001 <br>
 Backend runs on http://localhost:8080
 
 <h3>Running the backend:</h3>
